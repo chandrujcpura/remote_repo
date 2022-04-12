@@ -11,7 +11,7 @@ int main() {
 
   switch (op) {
     case '+':
-	     // add
+	     // addition
       printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
       break;
        // subtract
