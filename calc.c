@@ -14,7 +14,7 @@ int main() {
 	     // addition
       printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
       break;
-       // subtract
+       // chandra subtracting
     case '-':
       printf("%.1lf - %.1lf = %.1lf", first, second, first - second);
       break;
